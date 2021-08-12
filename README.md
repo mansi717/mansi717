@@ -5,8 +5,6 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi717" alt="mansi717" /></a> </p>-->
 
-- 🔭 I’m currently working on [Alumni Management System](https://alumni-management-system.thakur17.repl.co/)
-
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Android Development**
 
 - 👯 I’m looking to collaborate on **Any full stack project**
