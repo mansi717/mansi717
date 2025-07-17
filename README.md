@@ -5,13 +5,6 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi717" alt="mansi717" /></a> </p>-->
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Android Development**
-
-- 👯 I’m looking to collaborate on **Any full stack project**
-
-- 🤝 I’m looking for help with **Web Application Projects**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
